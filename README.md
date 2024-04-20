@@ -1,0 +1,1 @@
+# Sinema-Seans-Kontrol-Uygulamas-

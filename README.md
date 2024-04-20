@@ -5,6 +5,6 @@ Projeyi Visual Studio'da açın.
 Program.cs dosyasını bulun ve çalıştırın.
 Sizi karşılayan arayüzde gerekli bilgileri girin ve devamındaki adımları takip edin. 
 Film.cs: Filmleri temsil eden sınıfı içerir.
-Seans.cs:  Film seanslarını temsil eden sınıfı içerir.
+Seans.cs:  Film seanslarını temsil eden sınıfı içerir. 
 Program.cs : Kullanıcı ile etkileşim sağlayan ana uygulama dosyasıdır.
 Salon.cs:  Salon bilgilerini içeren sınıftır. 
